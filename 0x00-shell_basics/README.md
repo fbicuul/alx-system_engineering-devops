@@ -1,1 +1,1 @@
-cd.. changes my work directory
+Answer for listing directory contents in a long forma
