@@ -1,1 +1,1 @@
-my listing script ls
+cd.. to change my working directory
