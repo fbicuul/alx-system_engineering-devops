@@ -1,1 +1,1 @@
-cd.. for changing my working directory
+cd.. for changing my work directory
